@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Ankit%20Yadav%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Katni, Madhya Pradesh, India**  
+📍 Based in **Indore, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
@@ -24,13 +24,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagmohan-rai1/">
+  <a href="www.linkedin.com/in/ankit-yadav-z/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://jagmohan123.github.io/New-PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:jagmohanrai082@gmail.com">
+  <a href="mailto:ankityadavzoro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
