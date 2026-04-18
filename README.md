@@ -73,12 +73,7 @@
 - Course-based UI  
 - Role-based authentication  
 - Dashboard system  
-
-### 💼 Job Portal
-- Job apply system  
-- Recruiter & candidate dashboard  
-- Real-time data handling  
-
+  
 ---
 
 ## 📊 GitHub Stats
